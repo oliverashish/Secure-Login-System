@@ -1,0 +1,12 @@
+Secure Login System
+
+Features:
+- User Registration
+- User Login
+- Password Hashing using bcrypt
+- SQLite Database
+- SQL Injection Protection
+
+Test Result:
+Registration Successful
+Login Successful
